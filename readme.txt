@@ -24,6 +24,7 @@ This plugin add a google +1 button to your site.
 
 This plugin adds a google +1 button to your site. +1 buttons let people who love your content recommend it on Google search.
 
+[See Plugin in action](http://www.ahsan.pk/)
 
 = Features =
 
@@ -44,7 +45,9 @@ adds a google +1 button to your site.
 
 == Frequently Asked Questions ==
 
+=How can I get support for this Plugin?=
 
+Visit [Plugin Support page] (http://www.ahsan.pk/2011/06/google-1button/) if you need any help
 
 
 
