@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: +1 Button Plugin
+Plugin Name: +1Button Plugin
 Plugin URI: http://www.ahsan.pk/2011/06/google-1button/
 Description: Adds google +1button to your wordpress blog.
 Version: 1.1
