@@ -54,7 +54,7 @@ Visit [Plugin Support page] (http://www.ahsan.pk/2011/06/google-1button/) if you
 == Screenshots ==
 
 
-
+1. Settings Page
 
 
 
