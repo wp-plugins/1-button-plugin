@@ -1,4 +1,4 @@
-=== +1Button Plugin ===
+=== +1 Button Plugin ===
 
 Contributors: ahsan2k
 
