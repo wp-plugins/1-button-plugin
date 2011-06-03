@@ -3,7 +3,7 @@
 Plugin Name: +1 Button Plugin
 Plugin URI: http://www.ahsan.pk/2011/06/google-1button/
 Description: Adds google +1button to your wordpress blog.
-Version: 1.1
+Version: 1.2
 Author: ahsan.pk
 Author URI: http://www.ahsan.pk
 License: GPL2
@@ -98,6 +98,15 @@ function plus1_button_options() {
 	</p>
 	
 	</form>
+    <p>&nbsp;</p>
+    <table width="500" border="0">
+      <tr>
+        <td><a href="http://bit.ly/adfloat" target="_new"><img src="af.gif" width="170" height="53" /></a></td>
+        <td align="left" valign="top"><p>Best adsense plugin for wordpress.<br />
+        Give it a try</p></td>
+      </tr>
+    </table>
+    <p>&nbsp;</p>
 </div>
 	
 
