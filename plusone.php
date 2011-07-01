@@ -103,7 +103,7 @@ function plus1_button_options() {
       <tr>
         <td><a href="http://bit.ly/adfloat" target="_new"><img src="af.gif" width="170" height="53" /></a></td>
         <td align="left" valign="top"><p>Best adsense plugin for wordpress.<br />
-        Give it a try</p></td>
+          <a href="http://bit.ly/adfloat">Adsense Float</a> Give it a try</p></td>
       </tr>
     </table>
     <p>&nbsp;</p>
