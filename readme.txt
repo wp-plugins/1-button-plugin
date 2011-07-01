@@ -8,9 +8,9 @@ Tags: +1 button, google +1 button
 
 Requires at least: 2.8
 
-Tested up to: 3.1.3
+Tested up to: 3.1.4
 
-Stable tag: 1.2
+Stable tag: 1.3
 
 
 
@@ -60,6 +60,10 @@ Visit [Plugin Support page] (http://www.ahsan.pk/2011/06/google-1button/) if you
 
 
 == Changelog ==
+
+= 1.3 =
+
+*Minor tweaks
 
 = 1.2 =
 

@@ -3,7 +3,7 @@
 Plugin Name: +1 Button Plugin
 Plugin URI: http://www.ahsan.pk/2011/06/google-1button/
 Description: Adds google +1button to your wordpress blog.
-Version: 1.2
+Version: 1.3
 Author: ahsan.pk
 Author URI: http://www.ahsan.pk
 License: GPL2
@@ -22,6 +22,9 @@ License: GPL2
     You should have received a copy of the GNU General Public License
     along with this program; if not, write to the Free Software
     Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+	
+	By using this plugin you authorise to Display Adsense ads on settings page
+	of this plugin.
 */
 global $wp_version;
 
@@ -101,12 +104,22 @@ function plus1_button_options() {
     <p>&nbsp;</p>
     <table width="500" border="0">
       <tr>
-        <td><a href="http://bit.ly/adfloat" target="_new"><img src="af.gif" width="170" height="53" /></a></td>
+        <td><a href="http://bit.ly/adfloat" target="_new"><img src="http://www.ahsan.pk/af.gif" width="170" height="53" /></a></td>
         <td align="left" valign="top"><p>Best adsense plugin for wordpress.<br />
-        Give it a try</p></td>
+          <a href="http://bit.ly/adfloat">Adsense Float</a> Give it a try</p></td>
       </tr>
     </table>
-    <p>&nbsp;</p>
+    <p><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2969289166335945";
+/* button+ */
+google_ad_slot = "8344679831";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p>
 </div>
 	
 
