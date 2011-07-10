@@ -10,7 +10,7 @@ Requires at least: 2.8
 
 Tested up to: 3.1.4
 
-Stable tag: 1.3
+Stable tag: 1.4
 
 
 
@@ -60,6 +60,11 @@ Visit [Plugin Support page] (http://www.ahsan.pk/2011/06/google-1button/) if you
 
 
 == Changelog ==
+
+= 1.4 =
+
+*removed ad from options page
+
 
 = 1.3 =
 
